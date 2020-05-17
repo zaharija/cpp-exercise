@@ -1,0 +1,14 @@
+<functions>
+  <function>
+    <dll>Zadatak4Dll.dll</dll>
+    <name>Foo</name>
+  </function>
+  <function>
+    <dll>Zadatak4Dll.dll</dll>
+    <name>Bar</name>
+  </function>
+  <function>
+    <dll>NepostojeciDll.dll</dll>
+    <name>Pero</name>
+  </function>
+</functions>

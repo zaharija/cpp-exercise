@@ -1,0 +1,17 @@
+<results>
+<function>
+<dll>Zadatak4Dll.dll</dll>
+<name>Foo</name>
+<result>ooF</result>
+</function>
+<function>
+<dll>Zadatak4Dll.dll</dll>
+<name>Bar</name>
+<result>ERROR: Guru Meditation</result>
+</function>
+<function>
+<dll>NepostojeciDll.dll</dll>
+<name>Pero</name>
+<result>ERROR: No such DLL.</result>
+</function>
+</results>
